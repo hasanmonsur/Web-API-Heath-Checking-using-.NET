@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceApi", "ServiceApi\ServiceApi.csproj", "{52E9E5D1-A69D-47E7-824E-B3F49E40D6DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheckerApi", "HealthCheckApi\HealthCheckerApi.csproj", "{640E6107-1F72-42B1-9FFA-B5615EC1B1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E9E5D1-A69D-47E7-824E-B3F49E40D6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E9E5D1-A69D-47E7-824E-B3F49E40D6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E9E5D1-A69D-47E7-824E-B3F49E40D6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E9E5D1-A69D-47E7-824E-B3F49E40D6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640E6107-1F72-42B1-9FFA-B5615EC1B1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640E6107-1F72-42B1-9FFA-B5615EC1B1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640E6107-1F72-42B1-9FFA-B5615EC1B1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640E6107-1F72-42B1-9FFA-B5615EC1B1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6464B421-3EFE-42FC-B9F2-4E54CBE9AB60}
+	EndGlobalSection
+EndGlobal
